@@ -4,7 +4,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 :root {
@@ -57,7 +57,6 @@ button {
   gap: 5%;
   padding: 2% 5%;
   padding-left: 7%;
-  overflow: hidden;
 }
 
 .content__wrapper--img {
