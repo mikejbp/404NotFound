@@ -40,6 +40,7 @@ button {
   justify-content: start;
   padding: 3% 5%;
   height: 5vh;
+  overflow: hidden;
 }
 
 .header__title {
@@ -123,7 +124,7 @@ button {
   justify-content: center;
   color: var(--footer-txt);
   padding: 5% 0;
-  height: 5vh;
+  height: auto;
 }
 
 @media (min-width: 700px) {
