@@ -19,6 +19,11 @@
   --letter-spacing: -0.035em;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 button {
   border: none;
   outline: none;
